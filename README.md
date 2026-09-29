@@ -5,3 +5,5 @@ A simple, learning-oriented app using LangChain to identify diners that need to 
 Since I was more interested in learning LangChain than anything else here, this is over-engineered--an agent with web access does this just as well.
 
 The main entry point to the code is `diner_status_chain.py`.
+
+Some of this code and many of the ideas in it is from the book _[AI Agents and Applications](https://www.manning.com/books/ai-agents-and-applications)_, by Roberto Infante.s
