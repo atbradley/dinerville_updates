@@ -1,0 +1,5 @@
+.env
+agent.log
+lastrandom
+__pycache__/
+*.pyc
